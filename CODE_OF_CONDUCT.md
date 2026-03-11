@@ -1,5 +1,8 @@
 RULE 1: BE NICE
+
 RULE 2: BE CAREFUL
+
+RULE 3: BE SAFE
 
 # Contributor Code of Conduct
 
