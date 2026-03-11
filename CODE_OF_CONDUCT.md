@@ -4,8 +4,6 @@ RULE 2: BE CAREFUL
 
 RULE 3: BE SAFE
 
-RULE 4: GOOD BYE
-
 # Contributor Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of fostering an open and
