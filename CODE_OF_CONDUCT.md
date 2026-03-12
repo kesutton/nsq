@@ -2,8 +2,6 @@ RULE 1: BE NICE
 
 RULE 2: BE CAREFUL
 
-RULE 3: BE SAFE
-
 # Contributor Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of fostering an open and
